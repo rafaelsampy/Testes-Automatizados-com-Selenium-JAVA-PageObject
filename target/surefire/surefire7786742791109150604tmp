@@ -1,0 +1,8 @@
+#surefire
+#Tue Dec 11 14:54:02 BRST 2018
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\rafael\\Desktop\\Testes-Automatizados-com-Selenium-JAVA-PageObject-master
+file.encoding=UTF-8
+localRepository=C\:\\Users\\rafael\\.m2\\repository
+basedir=C\:\\Users\\rafael\\Desktop\\Testes-Automatizados-com-Selenium-JAVA-PageObject-master
+test=test.**.*Test
